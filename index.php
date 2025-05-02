@@ -2,6 +2,7 @@
 # makeing this project :
 # ايه حازم ابو شرخ 221170  
 # اسراء مازن قنيبي 221167
+# edit some thig  
 require_once 'config.php';
 
 ?>
